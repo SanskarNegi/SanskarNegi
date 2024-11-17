@@ -1,9 +1,5 @@
-- 👋 Hi, I’m @SanskarNegi
-- 👀 I’m interested in python, Machine Learning , Artificial Intelligence...
-- 🌱 I’m currently learning python...
-- 📫 LinkedIn:- https://www.linkedin.com/in/sanskar-negi-2347421a0...
-
-<!---
-SanskarNegi/SanskarNegi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Software Engineer | Python Developer
+📍 Location: Indore, MP
+📧 Email: Sanskar29negi@gmail.com
+📱 Phone: +91 7999917630
+🔗 LinkedIn: linkedin.com/in/sanskar-negi
